@@ -8,10 +8,13 @@
 "stations": [
 
 {"name":"CHESPIRITO EP01","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10", 
-"url":"http://tvpremiund.ddns.me:2082/series/sintv542/gbu207367/53130.avi"},
+"url":"http://tv.proyectox.vip:8080/series/asvpjuan0605/p7A4Dp84yV/31136.mp4"},
 
-{"name":"CHESPIRITO EP02","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10",
-"url":"http://tvpremiund.ddns.me:2082/series/sintv542/gbu207367/53131.mp4"}]},
+{"name":"CHESPIRITO EP02","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10", 
+"url":"http://tv.proyectox.vip:8080/series/asvpjuan0605/p7A4Dp84yV/31137.mp4"},
+
+{"name":"CHESPIRITO EP12","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10",
+"url":"http://tv.proyectox.vip:8080/series/asvpjuan0605/p7A4Dp84yV/31147.mp4"}]},
 
 {"name": "CHESPIRITO TEMP15",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10", 
