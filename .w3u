@@ -7,11 +7,11 @@
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10",
 "stations": [
 
-{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
-"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
+{"name":"CHESPIRITO EP01","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10", 
+"url":"http://tvpremiund.ddns.me:2082/series/sintv542/gbu207367/53130.avi"},
 
-{"name":"NATGEO OPC2","image":"http://descargas.podzone.net/logos/-NATGEO.png",
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"}]},
+{"name":"CHESPIRITO EP02","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIj9mBf-6mgRN60uGeryf_pHltJt9aZi12GtSZ3J-f78rMZ1WAQzZi8bQ&s=10",
+"url":"http://tvpremiund.ddns.me:2082/series/sintv542/gbu207367/53131.mp4"}]},
 
 {"name": "CHESPIRITO TEMP15",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10", 
