@@ -3,6 +3,16 @@
 "author": "P.A.C.O.",
 "groups": [
 
+{"name": "CHESPIRITO TEMP01",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10",
+"stations": [
+
+{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
+"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
+
+{"name":"NATGEO OPC2","image":"http://descargas.podzone.net/logos/-NATGEO.png",
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"}]},
+
 {"name": "CHESPIRITO TEMP15",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10", 
 "stations": [
@@ -226,16 +236,6 @@
 
 {"name":"CHESPIRITO E30","image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZp4rU1scgAwsdEUSWXtNLlKot9.jpg",
 "url":"http://fivetv.org:25461/series/GaboT/2023GT/28386.avi"}]},
-
-{"name": "CHESPIRITO TEMP I",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10",
-"stations": [
-
-{"name":"ANIMAL PLANET", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuXZIMkXsuzfDaSnKC6CgHJdbtcHeQTh1qjS1sM4QIrQ&s", 
-"url":"http://cdn1host.online:2999/live/xman2/hhqgjFfHXF/61.ts"},
-
-{"name":"NATGEO OPC2","image":"http://descargas.podzone.net/logos/-NATGEO.png",
-"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/440"}]},
 
 {"name": "CESPIRITO TMP II",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpBqtlbXpb1jzxqjDLjjt-hc8JmzMk4E6LZwiz0Q1gEE01G7zLtXNURc&s=10", 
